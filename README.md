@@ -4,7 +4,11 @@
 
 ## 我的学习目标
 
-- 学会创建和管理仓库
-- 学会修改文件
-- 理解 Commit、Branch 和 Pull Request
-- 一周后能够独立使用 GitHub
+* 学会创建和管理仓库
+* 学会修改文件
+* 理解 Commit、Branch 和 Pull Request
+* 一周后能够独立使用 GitHub
+* 这是我第一次在电脑本地修改GitHub文件
+
+
+
