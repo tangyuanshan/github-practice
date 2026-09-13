@@ -9,3 +9,4 @@
 - 理解 Commit、Branch 和 Pull Request
 - 一周后能够独立使用 GitHub
 -我喜欢GitHub A
+我学会了B
